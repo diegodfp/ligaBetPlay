@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Bienvenido al sistema de la Liga BetPlay");
         boolean salida = false;
         Scanner sc = new Scanner(System.in);
+        
         while (!salida) {
             System.out.println("Bienvenido al Software LigaBetPlay");
             System.out.println("Elige tu tipo de usuario");
